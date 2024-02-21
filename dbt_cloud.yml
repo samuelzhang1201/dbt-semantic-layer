@@ -1,0 +1,11 @@
+version: "1"
+context:
+  active-host: "cloud.getdbt.com"
+  active-project: "350595"
+projects:
+  - project-name: "Partner Connect Trial"
+    project-id: "350595"
+    account-name: "MECCA"
+    account-id: "246039"
+    account-host: "cloud.getdbt.com"
+    api-key: "dfbf045708c87ae976438fe232585d336358c16c"
