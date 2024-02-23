@@ -5,7 +5,7 @@ name: "jaffle_shop"
 version: "1.0.0"
 config-version: 2
 dbt-cloud:
-    project-id: 350595
+    project-id: 347863
 
 # This setting configures which "profile" dbt uses for this project.
 profile: "snowflake"
